@@ -1,0 +1,25 @@
+.shinchanImg{
+    float: right;
+}
+.child{
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    background-color: red;
+    margin: 20px;
+    color: white;
+    font-size: 48px;
+}
+.child1{
+}
+.child1{
+    float: right;
+}
+.child2{
+}
+.child3{
+    float:right;
+    clear:both
+}
+p{
+}

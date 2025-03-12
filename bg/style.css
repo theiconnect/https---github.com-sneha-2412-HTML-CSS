@@ -1,0 +1,31 @@
+
+@import url('./Mayonice.otf');
+@font-face{
+   src: url('./Mayonice.otf');
+   font-family: Mayonice;
+}
+body{
+    /* background-color: goldenrod; */
+    /* background-image: linear-gradient(45deg,orange,rgb(95, 95, 243),red,pink,violet,yellow,blue,green); */
+    height: 100vh;
+    font-family:Mayonice;
+/* background-image: linear-gradient(60deg, #8EC5FC 20%, hsl(271, 75%, 47%) 60%,#990000 10%); 
+background-image: radial-gradient(orange,green,orange,green,orange,green,orange,green);*/
+  
+    background-blend-mode:darken 
+   /* background-attachment: fixed; */
+
+}
+h1{
+ 
+   font-size: 144px;
+   text-align: center;
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/1/19/Marvel_Universe_%28Civil_War%29.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: top center; 
+      background-clip: text;
+   -webkit-background-clip: text;  
+   color: transparent;
+   /* color: white; */
+}
